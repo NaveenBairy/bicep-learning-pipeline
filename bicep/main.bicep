@@ -1,3 +1,4 @@
+// test change to trigger pipeline
 targetScope = 'subscription'
 
 @description('Name of the resource group to create')
